@@ -1,0 +1,38 @@
+/* Overall Div Styles */
+.wrapper{
+    margin-top: 100px;
+}
+
+/* Logo Styles */
+.logo{
+    width: 300px;
+    display: block;
+    margin: 10px auto;
+}
+
+/* Serach Input Styles */
+.search__input{
+    width: 500px;
+    display: block;
+    margin: 10px auto;
+    border: 1px solid #dfe1e5;
+    border-radius: 24px;
+    line-height: 24px;
+    padding: 10px 30px;
+}
+
+/* Button Div Styles */
+.btn__wrapper{
+    display: flex;
+    justify-content: center;
+}
+
+/* Button Styles */
+.btn{
+    margin: 0 10px;
+    border-radius: 5px;
+    border: none;
+    padding: 7px 10px;
+    background: #dfe1e5;
+    font-size: 16px;
+}
